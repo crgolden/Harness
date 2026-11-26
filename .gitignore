@@ -1,9 +1,0 @@
-# Playwright CLI scratch artifacts (page snapshots, console logs)
-.playwright-cli/
-
-# JetBrains per-user workspace state (open files, local paths); the shared project files stay tracked
-.idea/workspace.xml
-
-# Python bytecode caches (regenerated on import)
-__pycache__/
-*.pyc
